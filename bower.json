@@ -3,7 +3,7 @@
   "version": "0.0.3",
   "dependencies": {
   },
-  "main": "app/scripts/service/angular-atmosphere.js",
+  "main": "app/scripts/services/angular-atmosphere.js",
   "ignore": [
     "**/.*",
     "node_modules",
